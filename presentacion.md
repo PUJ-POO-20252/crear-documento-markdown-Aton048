@@ -63,4 +63,4 @@ Mi meta es seguir creciendo como programador, fortalecer mis conocimientos en in
 ## proyecto actual
 Este repositorio fue creado como parte de un ejercicio academico para aprender a trabajar con archivos Markdown y Git
 
-![Mi foto](img/cat coding.jpg)
+![Mi foto](img/cat-coding.jpg)
